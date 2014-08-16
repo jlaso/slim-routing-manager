@@ -1,3 +1,5 @@
+[![Latest Stable Version](https://poser.pugx.org/jlaso/slim-routing-manager/v/stable.svg)](https://packagist.org/packages/jlaso/slim-routing-manager) [![Total Downloads](https://poser.pugx.org/jlaso/slim-routing-manager/downloads.svg)](https://packagist.org/packages/jlaso/slim-routing-manager) [![Latest Unstable Version](https://poser.pugx.org/jlaso/slim-routing-manager/v/unstable.svg)](https://packagist.org/packages/jlaso/slim-routing-manager) [![License](https://poser.pugx.org/jlaso/slim-routing-manager/license.svg)](https://packagist.org/packages/jlaso/slim-routing-manager)
+
 This is an improvement to SlimFramework that permits to declare routes with the style of Symfony2
 
 If you want to see a real demo you can clone [this repository](https://www.github.com/jlaso/slim-routing-manager-sample) and launch composer install
