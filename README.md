@@ -1,6 +1,6 @@
 This is an improvement to SlimFramework that permits to declare routes with the style of Symfony2
 
-If you want to see a real demo you can clone this repository [this git](https://www.github.com/jlaso/sample-slim-routing-manager) and launch composer install
+If you want to see a real demo you can clone [this repository](https://www.github.com/jlaso/sample-slim-routing-manager) and launch composer install
 
 or to visit [this post](http://www.jaitec.net/blog/improving-the-behaviour-of-slimframework-with-a-routing-manager)  to see a complete demo
 in action
