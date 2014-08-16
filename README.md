@@ -1,9 +1,9 @@
 This is an improvement to SlimFramework that permits to declare routes with the style of Symfony2
 
-If you want to see a real demo you can download this repository
+If you want to see a real demo you can clone this repository
 https://www.github.com/jlaso/sample-slim-routing-manager and launch composer install
 
-or to visit www.patricklaso.com/blog/slim-routing-manager to see a complete demo
+or to visit http://www.jaitec.net/blog/improving-the-behaviour-of-slimframwork-with-a-routing-manager to see a complete demo
 in action
 
 The idea is to have this structure in the front controller (normally index.php)
