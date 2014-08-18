@@ -33,7 +33,7 @@ class RoutingCacheManager
         }
         if(count($controllers)){
             foreach($controllers as $controllerPath){
-                $this->loadPath($controllerPath);
+                $this->loadPath(realpath($controllerPath));
             }
         }
     }
